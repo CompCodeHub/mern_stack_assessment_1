@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "name": "mern_stack_assessments",
+  "description": "",
+  "version": "1.0.0",
+  "main": "Assessment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "starta3": "nodemon Assessment3.js",
+    "startserver": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
